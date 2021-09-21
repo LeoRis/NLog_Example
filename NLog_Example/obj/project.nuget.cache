@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "QI7cJOcqn2Xdc3Ir6REk6Dud1oOfyBkhwaxXOmCcytDBHBckcbB8p5Mw53hokWEUToMYf/yNN18CUXcM02H65g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonid.Ristanovski\\source\\repos\\NLog_Example\\NLog_Example\\NLog_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512",
+    "C:\\Users\\Leonid.Ristanovski\\.nuget\\packages\\nlog.web.aspnetcore\\4.14.0\\nlog.web.aspnetcore.4.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
